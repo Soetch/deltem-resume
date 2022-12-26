@@ -1,0 +1,6 @@
+[submodule "deltem-artist"]
+	path = deltem-artist
+	url = https://github.com/soetch/deltem-artist
+[submodule "deltem-resume"]
+	path = deltem-resume
+	url = https://github.com/soetch/deltem-resume
